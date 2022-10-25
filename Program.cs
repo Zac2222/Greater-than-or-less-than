@@ -1,4 +1,4 @@
-﻿
+﻿//Good job. Line 9 maybe change to "greater than" and "less than" but otherwise amazing work! Thumbs up! ~Liz
 bool runAgain = true;
 while (runAgain == true)
 {

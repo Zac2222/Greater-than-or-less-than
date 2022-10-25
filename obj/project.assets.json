@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\zac22\\.nuget\\packages\\": {}
+    "C:\\Users\\lizg1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\GreaterThanOrLessThan\\Greater-than-or-less-than\\Greater-than-or-less-than.csproj",
+      "projectUniqueName": "C:\\Users\\lizg1\\ZacRepo\\Greater-than-or-less-than\\Greater-than-or-less-than.csproj",
       "projectName": "Greater-than-or-less-than",
-      "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\GreaterThanOrLessThan\\Greater-than-or-less-than\\Greater-than-or-less-than.csproj",
-      "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\GreaterThanOrLessThan\\Greater-than-or-less-than\\obj\\",
+      "projectPath": "C:\\Users\\lizg1\\ZacRepo\\Greater-than-or-less-than\\Greater-than-or-less-than.csproj",
+      "packagesPath": "C:\\Users\\lizg1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lizg1\\ZacRepo\\Greater-than-or-less-than\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lizg1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
